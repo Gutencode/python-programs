@@ -19,6 +19,5 @@ while (count <= last_num):
         count += 1
     else:
         count += 1
-
-
+        
 print("The sum of odd numbers between",first_num,"and",last_num,"is :",sum)
